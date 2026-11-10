@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "atividade-bootstrap",
+  "version": "1.0.0",
+  "description": "Este repositório foi criado para armazenar os exercícios e projetos desenvolvidos durante as aulas de desenvolvimento web, cobrindo **HTML**, **Bootstrap (CSS)** e lógica de programação com **JavaScript**.",
+  "main": "arrayas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marley7976/aulasordiego.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marley7976/aulasordiego/issues"
+  },
+  "homepage": "https://github.com/marley7976/aulasordiego#readme"
+}
